@@ -6,5 +6,6 @@ If it is an integer it adds it to a new list.
 
 After iterating over all elements it returns the new list with all the valid integers in it.
 
-It also has a method validated_message that prints a message when the list is validted successfully.
+It also has a method validated_message that prints a message when the list is validated successfully.
+
 
